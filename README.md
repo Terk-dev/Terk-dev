@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="Banner" width="100%">
+  <img src="https://pin.it/3yqahpNtn" alt="Banner" width="100%">
 </p>
 # ¡Hola! Soy [Tu Nombre] 👋
 ...
