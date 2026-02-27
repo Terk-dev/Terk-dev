@@ -1,4 +1,4 @@
-![Banner](terkgod.jpg)
+![Banner](terkgod.JPG)
 # ¡Hola! Soy Sergio 👋
 
 ### 🧠 Explorador de Datos | Solucionador Creativo | Dev Ocasional
