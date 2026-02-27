@@ -23,7 +23,7 @@ Me apasiona transformar el caos de los datos en narrativas con sentido. No solo 
 
 ### 📫 Conectemos
 ¿Tienes un problema complejo que necesite una mirada creativa? 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/sergio--jm)
+* **LinkedIn:** [www.linkedin.com/in/sergio--jm](www.linkedin.com/in/sergio--jm)
 * **Portfolio:** [tu-web.com](https://tu-web.com)
 
 *"Los datos te dan la respuesta, pero la creatividad te hace la pregunta correcta."*
