@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Banner" width="100%">
+</p>
+# ¡Hola! Soy [Tu Nombre] 👋
+...
+
 # ¡Hola! Soy Sergio 👋
 
 ### 🧠 Explorador de Datos | Solucionador Creativo | Dev Ocasional
@@ -15,9 +21,6 @@ Me apasiona transformar el caos de los datos en narrativas con sentido. No solo 
 * **Datos:** Python (Pandas, Numpy), SQL, Tableau/PowerBI.
 * **Dev:** Python, JavaScript, Git.
 * **Power Skills:** Pensamiento lateral, adaptabilidad y enfoque en resultados.
-
-### 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Terk-dev&show_icons=true&theme=radical)
 
 ---
 
