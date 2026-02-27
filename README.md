@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://pin.it/3yqahpNtn" alt="Banner" width="100%">
 </p>
-# ¡Hola! Soy [Tu Nombre] 👋
-...
-
 # ¡Hola! Soy Sergio 👋
 
 ### 🧠 Explorador de Datos | Solucionador Creativo | Dev Ocasional
